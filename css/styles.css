@@ -1,7 +1,6 @@
-body{
-    color:#4D80E4;
+body{    
     text-align: center;
-    font-family: 'Merriweather Sans', serif;
+    font-family: 'Merriweather', serif;
     margin:0;
 }
 
@@ -21,12 +20,33 @@ h2{
 
 }
 
+p {
+    line-height: 2;
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+    }
+
 .top-container{
     background-color:#DFF6F0;
     margin: 0;
     position: relative;
     padding-top: 50px;
     padding-bottom: 50px; 
+}
+
+.middle-container{
+    margin: 100px;
+
+}
+
+.profile-pic{
+    width: 200px;
+    border-radius: 50%;
+    margin: 0 auto 50px auto;
+
 }
 
 .title-text{
@@ -40,7 +60,7 @@ h2{
     top: 50px;
     right: 300px;
 }
-.whale-left{
+.waves-left{
     width: 180px;
     margin: 0;
     position: absolute;
@@ -48,18 +68,6 @@ h2{
     left: 300px;
 }
 
-.border-row{
-    margin: 0;
-    padding:0;
-    background-color: #4D80E4;
-}
-
-.sea{
-    width:150px;
-    margin: 0;
-    position: relative;
-    bottom:50px;
-}
 
 .pro{
     text-decoration: underline;
