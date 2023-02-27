@@ -1,0 +1,66 @@
+body{
+    color:#4D80E4;
+    text-align: center;
+    font-family: 'Merriweather Sans', serif;
+    margin:0;
+}
+
+h1{
+    font-size: 5rem; 
+    color: #2E279D;
+    margin:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;    
+}
+
+h2{
+    font-size: 2rem;
+    color: #2E279D;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto 50px auto;
+    font-weight: normal;
+
+}
+
+.top-container{
+    background-color:#DFF6F0;
+    margin: 0;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px; 
+}
+
+.title-text{
+    margin:200px 0 200px 0;
+}
+
+.waves-right{
+    width: 180px;
+    margin: 0;
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.whale-left{
+    width: 180px;
+    margin: 0;
+    position: absolute;
+    bottom: 80px;
+    left: 300px;
+}
+
+.border-row{
+    margin: 0;
+    padding:0;
+    background-color: #4D80E4;
+}
+
+.sea{
+    width:150px;
+    margin: 0;
+    position: relative;
+    bottom:50px;
+}
+
+.pro{
+    text-decoration: underline;
+}
