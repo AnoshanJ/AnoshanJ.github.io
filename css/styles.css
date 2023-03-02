@@ -53,22 +53,6 @@ p {
     margin:200px 0 200px 0;
 }
 
-.waves-right{
-    width: 180px;
-    margin: 0;
-    position: absolute;
-    top: 50px;
-    right: 300px;
-}
-.waves-left{
-    width: 180px;
-    margin: 0;
-    position: absolute;
-    bottom: 80px;
-    left: 300px;
-}
-
-
 .pro{
     text-decoration: underline;
 }
